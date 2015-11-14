@@ -1,0 +1,17 @@
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\DataCustomer_Api.dll.config
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\DataCustomer_Api.dll
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\DataCustomer_Api.pdb
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Helpers.dll
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Mvc.dll
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Razor.dll
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Webpages.Deployment.dll
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Webpages.dll
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Webpages.Razor.dll
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Razor.xml
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Webpages.xml
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Webpages.Deployment.xml
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Webpages.Razor.xml
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Helpers.xml
+D:\Test Project\MyMVC4\DataCustomer_Api\bin\System.Web.Mvc.xml
+D:\Test Project\MyMVC4\DataCustomer_Api\obj\Debug\DataCustomer_Api.dll
+D:\Test Project\MyMVC4\DataCustomer_Api\obj\Debug\DataCustomer_Api.pdb
