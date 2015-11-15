@@ -1,0 +1,13 @@
+D:\Project\MyMVC4\BaseProxy\bin\Debug\BaseProxy.dll
+D:\Project\MyMVC4\BaseProxy\bin\Debug\BaseProxy.pdb
+D:\Project\MyMVC4\BaseProxy\bin\Debug\Newtonsoft.Json.dll
+D:\Project\MyMVC4\BaseProxy\bin\Debug\Newtonsoft.Json.xml
+D:\Project\MyMVC4\BaseProxy\obj\Debug\BaseProxy.dll
+D:\Project\MyMVC4\BaseProxy\obj\Debug\BaseProxy.pdb
+D:\Test Project\MyMVC4\BaseProxy\bin\Debug\BaseProxy.dll
+D:\Test Project\MyMVC4\BaseProxy\bin\Debug\BaseProxy.pdb
+D:\Test Project\MyMVC4\BaseProxy\bin\Debug\Newtonsoft.Json.dll
+D:\Test Project\MyMVC4\BaseProxy\bin\Debug\Newtonsoft.Json.xml
+D:\Test Project\MyMVC4\BaseProxy\obj\Debug\ApiHelper.csprojResolveAssemblyReference.cache
+D:\Test Project\MyMVC4\BaseProxy\obj\Debug\BaseProxy.dll
+D:\Test Project\MyMVC4\BaseProxy\obj\Debug\BaseProxy.pdb
