@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyMVC4.Models.Repositories;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -13,6 +14,9 @@ namespace MyMVC4.Controllers
 
         public ActionResult Index()
         {
+            CustomerRepositories customerRepo = new CustomerRepositories();
+            string custId = "12345";
+            string result = customerRepo.GetCustomerData(custId);
             return View();
         }
 

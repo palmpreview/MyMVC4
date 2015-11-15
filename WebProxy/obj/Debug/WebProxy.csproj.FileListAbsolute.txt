@@ -1,0 +1,40 @@
+D:\Test Project\MyMVC4\WebProxy\obj\Debug\WebProxy.csprojResolveAssemblyReference.cache
+D:\Test Project\MyMVC4\WebProxy\bin\WebProxy.dll.config
+D:\Test Project\MyMVC4\WebProxy\bin\WebProxy.dll
+D:\Test Project\MyMVC4\WebProxy\bin\WebProxy.pdb
+D:\Test Project\MyMVC4\WebProxy\bin\DataCustomer_Api.dll
+D:\Test Project\MyMVC4\WebProxy\bin\System.Web.Mvc.dll
+D:\Test Project\MyMVC4\WebProxy\bin\System.Web.Razor.dll
+D:\Test Project\MyMVC4\WebProxy\bin\System.Web.WebPages.Razor.dll
+D:\Test Project\MyMVC4\WebProxy\bin\System.Web.WebPages.dll
+D:\Test Project\MyMVC4\WebProxy\bin\System.Web.WebPages.Deployment.dll
+D:\Test Project\MyMVC4\WebProxy\bin\DataCustomer_Api.pdb
+D:\Test Project\MyMVC4\WebProxy\bin\System.Web.Mvc.xml
+D:\Test Project\MyMVC4\WebProxy\bin\System.Web.Razor.xml
+D:\Test Project\MyMVC4\WebProxy\bin\System.Web.WebPages.Razor.xml
+D:\Test Project\MyMVC4\WebProxy\bin\System.Web.WebPages.xml
+D:\Test Project\MyMVC4\WebProxy\bin\System.Web.WebPages.Deployment.xml
+D:\Test Project\MyMVC4\WebProxy\obj\Debug\WebProxy.dll
+D:\Test Project\MyMVC4\WebProxy\obj\Debug\WebProxy.pdb
+D:\Project\MyMVC4\WebProxy\obj\Debug\WebProxy.csprojResolveAssemblyReference.cache
+D:\Project\MyMVC4\WebProxy\bin\WebProxy.dll.config
+D:\Project\MyMVC4\WebProxy\bin\WebProxy.dll
+D:\Project\MyMVC4\WebProxy\bin\WebProxy.pdb
+D:\Project\MyMVC4\WebProxy\bin\BaseProxy.dll
+D:\Project\MyMVC4\WebProxy\bin\DataCustomer_Api.dll
+D:\Project\MyMVC4\WebProxy\bin\System.Web.Mvc.dll
+D:\Project\MyMVC4\WebProxy\bin\System.Web.Razor.dll
+D:\Project\MyMVC4\WebProxy\bin\System.Web.WebPages.Razor.dll
+D:\Project\MyMVC4\WebProxy\bin\System.Web.WebPages.dll
+D:\Project\MyMVC4\WebProxy\bin\System.Web.WebPages.Deployment.dll
+D:\Project\MyMVC4\WebProxy\bin\BaseProxy.pdb
+D:\Project\MyMVC4\WebProxy\bin\DataCustomer_Api.pdb
+D:\Project\MyMVC4\WebProxy\bin\System.Web.Mvc.xml
+D:\Project\MyMVC4\WebProxy\bin\System.Web.Razor.xml
+D:\Project\MyMVC4\WebProxy\bin\System.Web.WebPages.Razor.xml
+D:\Project\MyMVC4\WebProxy\bin\System.Web.WebPages.xml
+D:\Project\MyMVC4\WebProxy\bin\System.Web.WebPages.Deployment.xml
+D:\Project\MyMVC4\WebProxy\obj\Debug\WebProxy.dll
+D:\Project\MyMVC4\WebProxy\obj\Debug\WebProxy.pdb
+D:\Project\MyMVC4\WebProxy\bin\Newtonsoft.Json.xml
+D:\Project\MyMVC4\WebProxy\bin\Newtonsoft.Json.dll
